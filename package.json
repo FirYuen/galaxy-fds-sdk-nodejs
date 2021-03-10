@@ -1,5 +1,5 @@
 {
-  "name": "galaxy-fds-sdk",
+  "name": "galaxy-fds-sdk-modified",
   "version": "0.2.5",
   "scripts": {
     "test": "mocha"
